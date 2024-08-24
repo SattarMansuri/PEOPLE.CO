@@ -1,0 +1,233 @@
+export const FAKE_DATA=[
+{
+"avatar": "https://picsum.photos/seed/s9QnK3PN/640/480",
+"birthdate":"Sun Nov 30 1986 ",
+"email" : "Cade.Stamm59@gmail.com",
+"gender" : "female",
+"jobTitle": "Dynamic Optimization Engineer",
+"name": "Faith Franey",
+"userName": "Wendy_Blick",
+"nationality": "Canadian",
+"contact": "5922182128"
+},
+{
+"avatar": "https://loremflickr.com/640/480?lock=6202698019897344",
+"birthdate":"Sun Nov 03 1946",
+"email" : "Kasandra_Aufderhar@hotmail.com",
+"gender" : "female",
+"jobTitle": "Human Tactics Officer",
+"name": "Faith Franey",
+"userName": "Audrey Toy",
+"nationality": "Canadian",
+"contact": "(855) 969-2618 x04081"
+},
+{
+"avatar": "https://loremflickr.com/640/480?lock=6474039304388608",
+"birthdate":"Fri Aug 12 1994",
+"email" : "Kayley_Lebsack@yahoo.com",
+"gender" : "female",
+"jobTitle": "Customer Interactions Officer",
+"name": "Winston VonRueden",
+"userName": "Orin95",
+"nationality": "Canadian",
+"contact": "(375) 788-7475"
+},
+{
+"avatar": "https://loremflickr.com/640/480?lock=1231620256301056",
+"birthdate":"Thu Dec 18 1958",
+"email" : "Stanton.Lueilwitz81@yahoo.com",
+"gender" : "female",
+"jobTitle": "Direct Applications Coordinator",
+"name": "Joanna Koepp Sr.",
+"userName": "Tanner73",
+"nationality": "Canadian",
+"contact": "405-830-1822 x42960"
+},
+{
+"avatar": "https://loremflickr.com/640/480?lock=4949743719415808",
+"birthdate":"Tue Jul 21 1987",
+"email" : "Jaiden_Rodriguez@gmail.com",
+"gender" : "male",
+"jobTitle": "Corporate Accounts Technician",
+"name": "Ms. Leah Goodwin",
+"userName": "Rudolph.Shields",
+"nationality": "Canadian",
+"contact": "1-400-729-9884"
+},
+{
+"avatar": "https://picsum.photos/seed/jeg7k/640/480",
+"birthdate":"Sun Dec 24 1944",
+"email" : "Kody.Huel91@yahoo.com",
+"gender" : "female",
+"jobTitle": "Customer Web Facilitator",
+"name": "Winston VonRueden",
+"userName": "Orin85",
+"nationality": "Canadian",
+"contact": "(584) 836-4895"
+},
+{
+"avatar": "https://loremflickr.com/640/480?lock=799734012837888",
+"birthdate":"Wed Nov 01 1944",
+"email" : "Darwin_Auer49@hotmail.com",
+"gender" : "female",
+"jobTitle": "Customer Brand Executive",
+"name": "Blake Cremin",
+"userName": "Bobby.Kovacek87",
+"nationality": "Canadian",
+"contact": "(724) 411-4190"
+},
+{
+"avatar": "https://loremflickr.com/640/480?lock=1093083334705152",
+"birthdate":"Thu Jul 11 1996",
+"email" : "Adelia40@gmail.com",
+"gender" : "male",
+"jobTitle": "Regional Marketing Technician",
+"name": "Ginger Langworth",
+"userName": "Alayna.Quigley",
+"nationality": "Canadian",
+"contact":"470-364-1530"
+},
+{
+"avatar": "https://loremflickr.com/640/480?lock=4180040478621696",
+"birthdate":"Fri May 09 1947",
+"email" : "Bella.Champlin@gmail.com",
+"gender" : "female",
+"jobTitle": "Regional Mobility Agent",
+"name": "Ernest Gleichner",
+"userName": "Kirstin_Graham",
+"nationality": "Canadian",
+ "contact": "950-321-0566"
+},
+{
+"avatar": "https://loremflickr.com/640/480?lock=2305171105251328",
+"birthdate":"Fri Jan 29 1971",
+"email" : "Pansy_Jacobson-Johnson@gmail.com",
+"gender" : "male",
+"jobTitle": "Senior Data Orchestrator",
+"name": "Jasmine Windler",
+"userName": "Lisette15",
+"nationality": "Canadian",
+"contact": "(953) 350-7474"
+},
+{
+"avatar": "https://picsum.photos/seed/pkdCdLi20o/640/480",
+"birthdate":"Sat Sep 26 1998",
+"email" : "Amiya.White90@gmail.com",
+"gender" : "female",
+"jobTitle": "Senior Division Analyst",
+"name": "Toni Kiehn",
+"userName": "Leola.Bauch29",
+"nationality": "Canadian",
+"contact": "708-784-5937"
+},
+{
+"avatar": "https://loremflickr.com/640/480?lock=6316930994536448",
+"birthdate":"Sun Mar 30 1969",
+"email" : "Arnaldo81@gmail.com",
+"gender" : "male",
+"jobTitle": "Chief Applications Manager",
+"name": "Janis Kovacek",
+"userName": "Hunter_Heaney",
+"nationality": "Canadian",
+"contact": "(646) 881-7914"
+},
+{
+"avatar": "https://picsum.photos/seed/kI9kC3A/640/480",
+"birthdate":"Tue Oct 11 1977",
+"email" : "Lloyd_Christiansen6@gmail.com",
+"gender" : "male",
+"jobTitle": "District Web Consultant",
+"name": "Mr. Willard Mante",
+"userName": "Idella.Marks",
+"nationality": "Canadian",
+"contact": "488-836-9655"
+},
+{
+"avatar": "https://picsum.photos/seed/OBjAHDZ/640/480",
+"birthdate":"Mon Oct 16 1995",
+"email" : "Keyon_Bechtelar32@yahoo.com",
+"gender" : "male",
+"jobTitle": "Future Integration Consultant",
+"name": "Claudia Jakubowski",
+"userName": "Joelle.Vandervort",
+"nationality": "Canadian",
+"contact": "567-767-6301"
+},
+{
+"avatar": "https://picsum.photos/seed/fbrpwNG97/640/480",
+"birthdate":"Sun Apr 07 1996",
+"email" : "Leonora_Will-Hane@gmail.com",
+"gender" : "female",
+"jobTitle": "Direct Assurance Designer",
+"name": "Santiago Nader",
+"userName": "Jo_Gislason",
+"nationality": "Canadian",
+"contact": "(850) 806-9592"
+},
+{
+"avatar": "https://picsum.photos/seed/DtjfYjdXFA/640/480",
+"birthdate":"Sun Mar 29 1987",
+"email" : "Serenity.Lowe@yahoo.com",
+"gender" : "female",
+"jobTitle": "Implementation Officer",
+"name": "Mable Walter",
+"userName": "Anastasia.Beahan",
+"nationality": "Canadian",
+"contact": "(724) 411-4190"
+},
+{
+"avatar": "https://loremflickr.com/640/480?lock=1484306677497856",
+"birthdate":"Thu Oct 12 2000",
+"email" : "Dante.Rempel59@yahoo.com",
+"gender" : "male",
+"jobTitle": "Web Designer",
+"name": "Elbert Erdman",
+"userName": "Pascale.Dickinson",
+"nationality": "Canadian",
+"contact": "880.806.5965"
+},
+{
+"avatar": "https://picsum.photos/seed/7DrHdZKe/640/480",
+"birthdate":"Mon Mar 15 1971",
+"email" : "Mauricio_Auer67@hotmail.com",
+"gender" : "male",
+"jobTitle": "Directives Engineer",
+"name": "Joel Mayert",
+"userName": "George_Waters19",
+"nationality": "Canadian",
+"contact": "(467) 602-3556"
+},
+{
+"avatar": "https://loremflickr.com/640/480?lock=4194948895211520",
+"birthdate":"Fri Oct 21 1994",
+"email" : "Serenity.Lowe@yahoo.com",
+"gender" : "female",
+"jobTitle": "Markets Assistant",
+"name": "Leslie Zieme",
+"userName": "Keon75",
+"nationality": "Canadian",
+"contact": "582.907.3039"
+},
+{
+"avatar": "https://picsum.photos/seed/Ywlb8Xwuj/640/480",
+"birthdate":"Wed Mar 19 1952",
+"email" : "Carlotta_Jast-Spencer51@hotmail.com",
+"gender" : "female",
+"jobTitle": "Marketing Supervisor",
+"name": "Wilbert Heller DVM",
+"userName": "Theresa57",
+"nationality": "Canadian",
+"contact": "(371) 337-4453"
+},
+{
+"avatar": "https://picsum.photos/seed/yfG3pBiES/640/480",
+"birthdate":"Tue Apr 19 1983",
+"email" : "Delphine5@gmail.com",
+"gender" : "male",
+"jobTitle": "Research Developer",
+"name": "Van Anderson",
+"userName": "Daniella.Wilkinson",
+"nationality": "Canadian",
+"contact": "733-480-5979"
+}
+]
